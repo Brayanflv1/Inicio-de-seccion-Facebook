@@ -1,0 +1,134 @@
+body{
+    margin: revert !important;
+    font-family: Helvetica, Arial, sans-serif !important;
+}
+header{
+    display: block;
+    width: 100%;
+    color: rgb(21, 79, 204);
+    float: left;
+    text-align: center;
+    
+   
+}
+section{
+    display: block;
+    width: 100%;
+    height: 400px;
+    float: left;
+}
+#campos{
+    text-align: center;
+}
+.row{
+    padding-top: 8px;
+    display: inline-block !important; 
+    
+}
+input{
+    background-color: rgba(0, 0, 0, .04);
+    border-color: rgba(0, 0, 0, .07) rgba(0, 0, 0, .11) rgba(0, 0, 0, .18) !important;
+    width: 416px;
+    padding: 11px 10px;
+    font-size: 14px !important;
+    text-decoration: none !important;
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.has{
+    font-size: 14px;
+    text-align: center;
+    color: rgb(24, 119, 242);
+}
+#parteo{
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    
+    
+}
+.ralla1{
+    color: #ccd0d5;
+    padding-right: 15px;
+}
+.ralla2{
+    color: #ccd0d5;
+    padding-left: 15px;
+}
+.o{
+    color: rgb(75, 79, 86);
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+#n1{
+    padding: 3px !important;  
+}
+#n2{
+    padding: 5px !important;
+}
+#n3{
+    padding: 5px !important;
+}
+.butti1{
+    background-color:rgb(24, 119, 242) ;
+    border-color: rgb(24, 119, 242);
+    padding: 6px ;
+    font-size: 17px !important;
+    color: #ffff;
+    border-radius: 4px !important;
+    border-style: solid;
+    width: 416px;
+    font-weight: bold;
+}
+.butt{
+    text-align: center;
+}
+#n4{
+    padding: 5px !important;
+}
+.butti2{
+    width: 170px;
+    background-color: rgb(0, 164, 0);
+    border-color: rgb(0, 164, 0);
+    color: #ffff;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 4px ;
+    border-style: solid;
+    font-weight: bold;
+    justify-content: center;
+}
+
+footer{
+    display: block;
+    width: 100%;
+    float: left;
+    font-size: 12px;
+    line-height: 15px;
+}
+#penultimo{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(87, 107, 149);
+}
+.pieizq{
+    display: inline-block;
+    text-align: center; 
+    
+}
+.pieder{
+    display: inline-block;
+    text-align: center; 
+    
+}
+.pieabaj{
+    font-size: 12px;
+    line-height: 15px;
+    display: block;
+    text-align: center;
+    color: rgb(128, 128, 128);
+
+}
